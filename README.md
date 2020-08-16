@@ -1,7 +1,7 @@
 ## This project collects information about movies
 
 ### System Design:
-![GitHub Logo](/system-architecture.png)
+![System Design](/system/architecture.png)
 
 ### Current Features:
 ``` 
